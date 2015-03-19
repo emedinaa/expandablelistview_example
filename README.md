@@ -1,4 +1,4 @@
-Ejemplo ExpandableListView
+Ejemplo Android ExpandableListView
 
 ![GitHub Logo](ExampleExpandableListView.png)
 
